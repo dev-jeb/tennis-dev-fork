@@ -1,0 +1,12 @@
+date: '2025-08-05'
+team1:
+- j
+- b
+team2:
+- c
+- d
+sets:
+- - 3
+  - 4
+source_issue: 42
+
